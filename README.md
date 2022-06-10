@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Letyshort
 - 👀 I’m interested in exploring
-- 🌱 I’m currently learning  python
+- 🌱 I’m currently learning  python and ++
 - 💞️ I’m looking for something that delights
   - 📫 How to reach me leticiashorta@gmail.com
 :O)
